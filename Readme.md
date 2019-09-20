@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Siyovush Jafarov](https://up.htmlacademy.ru/htmlcss/26/user/489657).
-* Наставник: `Неизвестно`.
+* Наставник: `Artem Anoshin`.
 
 ---
 
